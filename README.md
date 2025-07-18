@@ -109,7 +109,4 @@ Performed using **Power Query**:
 - Use **Power BI segmentation** to identify low-engagement users  
 - Personalize retention campaigns based on customer behavior
 
----
-
-📁 **Note**: The Power BI `.pbix` file and sample dataset are included in this repository.
 
