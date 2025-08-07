@@ -66,7 +66,7 @@ Performed using **Power Query**:
 
 ## Dashboard
 ![image alt](https://github.com/odewolemistura/Sales-And-Customer-Insight-Report-POWER-BI/blob/52ee28b48742d06cb39cae029c3b758c2f351025/Dashboard1.png)
-![image alt]()
+![image alt](https://github.com/odewolemistura/Sales-And-Customer-Insight-Report-POWER-BI/blob/05d7929d7105f00ac3a6112aa07e50a34ac08d68/Dashboard2.png)
 ![image alt]()
 
 ## 🔍 Analysis Findings
