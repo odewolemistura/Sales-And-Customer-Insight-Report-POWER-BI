@@ -64,6 +64,11 @@ Performed using **Power Query**:
 
 ---
 
+## Dashboard
+![image alt]()
+![image alt]()
+![image alt]()
+
 ## 🔍 Analysis Findings
 
 ### 💰 Sales & Profit Trends
